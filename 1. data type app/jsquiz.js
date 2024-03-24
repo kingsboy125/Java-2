@@ -4,11 +4,11 @@ let passcoDE =document.getElementById('passcod-e')
 let coHort = document.getElementById('cohor-t')
 let firstData = document.getElementById('firstdat-a')
 let seconData = document.getElementById('secondat-a')
-let Quiz = document.getElementById('Quizbtn')
 
 
 
-function Quiz(){
+
+function Newquiz(){
 let name = ( prompt('enter your name'))
 let passcode = prompt('ener your passcord')
 let cohort = prompt('ener your cohort')
